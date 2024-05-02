@@ -1,0 +1,17 @@
+body{
+    background-color: aqua;
+}
+
+.page-heading{
+    text-align: center;
+}
+
+.text-box{
+    float: right
+}
+
+.flex-container{
+    display: flex;
+    
+}
+
